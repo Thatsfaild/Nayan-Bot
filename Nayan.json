@@ -1,22 +1,22 @@
 {
-  "author": "Nayan",
+  "author": "TANVIR",
   "version": "1.5.7",
   "autoRestart": true,
   "developermode": false,
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
-  "PREFIX": "/",
+  "BOTNAME": "RANI AI",
+  "PREFIX": "-",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100077587996030",
+    ""
   ],
   "ADMINBOT": [
-    "100014896964436",
-    "100000959749712"
+    "100077587996030",
+    ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100077587996030"], 
   "APPROVED": [],
   "disabledcmds": [
   ],
