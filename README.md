@@ -1,19 +1,19 @@
 ## ABOUT ME
 
-name : ```Nayan Developer```</br>
+name : ```TANVIR```</br>
 age : ```20```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+link : [facebook](https://www.facebook.com/profile.php?id=100077587996030).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [NAYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
+modified : [RANI](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
 
 ## CONFIG AND CUSTOM
 
-Nayan.js : ``configure auto restart and auto accept pending messages.``</br>
-Nayan.json : ``configure bot name, bot prefix, bot operators and admins.``</br>
-Nayanstate.json : ``account cache data.``
+RANI.js : ``configure auto restart and auto accept pending messages.``</br>
+RANI.json : ``configure bot name, bot prefix, bot operators and admins.``</br>
+RANIstate.json : ``account cache data.``
 
 ## BOX APPROVAL
 
